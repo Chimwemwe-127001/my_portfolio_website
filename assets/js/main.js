@@ -40,8 +40,6 @@ navLink.forEach((n) => n.addEventListener('click', linkAction));
 
 /*= =================== PORTFOLIO SWIPER  ==================== */
 
-/*= =================== TESTIMONIAL ==================== */
-
 /*= =================== SCROLL SECTIONS ACTIVE LINK ==================== */
 
 /*= =================== CHANGE BACKGROUND HEADER ==================== */
